@@ -4,15 +4,15 @@ Creating an end-to-end machine learning platform with automated data ingestion, 
 
 ---
 
-Building the Data Warehouse (Data Engineering)
+# Building the Data Warehouse (Data Engineering)
 
-**Objective**
+## Objective
 
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 ---
 
-**Specifications**
+### Specifications
 
 **Data Sources:** Import data from two source systems (ERP and CRM) provided as CSV files.
 **Data Quality:** Cleanse and resolve data quality issues prior to analysis.
@@ -24,7 +24,7 @@ Documentation: Provide clear documentation of the data model to support both bus
 
 BI: Analytics & Reporting (Data Analytics)
 
-**Objective**
+## Objective
 
 Develop SQL-based analytics to deliver detailed insights into:
 
@@ -35,6 +35,6 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 ---
-**🛡️ License**
+### 🛡️ License
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
