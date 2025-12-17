@@ -2,14 +2,15 @@
 
 Creating an end-to-end machine learning platform with automated data ingestion, feature engineering, and predictive analytics.
 
-......
+---
 
 Building the Data Warehouse (Data Engineering)
 
 **Objective**
 
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
-........
+
+---
 
 **Specifications**
 
@@ -33,6 +34,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
+---
 **🛡️ License**
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
